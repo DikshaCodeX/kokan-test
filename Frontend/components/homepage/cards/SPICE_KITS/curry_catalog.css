@@ -18,7 +18,7 @@ a {
 .navbar {
   background-color: #fff;
   padding: 15px 40px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
 }
 .navbar .logo {
@@ -53,7 +53,7 @@ a {
   background-color: white;
   padding: 15px;
   border-radius: 8px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
@@ -62,7 +62,7 @@ a {
 }
 .product-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.12);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
 }
 
 /* Image styling — smaller, uniform */
@@ -125,4 +125,3 @@ footer {
 .footer-col p {
   margin: 10px 0;
 }
-
